@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.card-header-color {
+  background-color: #cce5ff !important;
+}
+
+.money {
+  text-align: right;  
+}
+
+.profit {
+  color: darkgreen;
+}
+
+.loss {
+  color: red;
+}
+
+.summary {
+  text-align: left;
+}
